@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Riston appi</string>
+    <string name="username_txt">Username</string>
+    <string name="pwd_txt">Password</string>
+    <string name="login_button">Login</string>
+    <string name="toka_txt">Second page:)</string>
+    <string name="register_button">Register here</string>
+    <string name="register2_button">DONE</string>
+    <string name="name_txt">Name</string>
+    <string name="age_txt">Age</string>
+</resources>
